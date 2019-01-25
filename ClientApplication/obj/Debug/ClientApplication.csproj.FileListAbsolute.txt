@@ -1,0 +1,11 @@
+C:\Development\WebServiceApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\Newtonsoft.Json.pdb
+C:\Development\WebServiceApplication\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Development\WebServiceApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Development\WebServiceApplication\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Development\WebServiceApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Development\WebServiceApplication\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
